@@ -1,4 +1,7 @@
 # Power-Bi-Dashboard
+
+**HR Analytics End-to-End project**
+
 **Overview-**
 
 The HR Data Analysis Dashboard in Power BI is designed for HR managers and business leaders to analyze employee data for better decision-making.
